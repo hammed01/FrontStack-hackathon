@@ -159,12 +159,10 @@ h2{
 
 
 @media only screen and (max-width: 500px) {
-  body {
-    background-color: #403c3b;
-  }
-
+ 
 #page {
     max-width: 480px;
+    min-width: 0px;
   }
 
 }
